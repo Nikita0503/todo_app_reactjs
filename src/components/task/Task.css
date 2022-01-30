@@ -1,0 +1,9 @@
+.task{
+    transition: 300ms;
+    background-color: white;
+}
+
+.task:hover{
+    transition: 300ms;
+    background-color: #b3b3b3;
+}
